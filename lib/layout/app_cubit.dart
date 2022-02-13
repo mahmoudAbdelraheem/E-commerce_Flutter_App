@@ -19,8 +19,8 @@ int currentIndex=0;
 
  List<Widget> bottomNavScreen=[
   const HomeScreen(), // screen for all products
-  const FavoriteScreen(),
    const CategoryScreen(),
+   const FavoriteScreen(),
    const SettingScreen(),
 ];
 
