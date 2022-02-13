@@ -33,12 +33,12 @@ class AppLayout extends StatelessWidget {
                 label: "Home",
               ),
               BottomNavigationBarItem(
-                icon: Icon(Icons.favorite, size: 22),
-                label: "Favorite",
-              ),
-              BottomNavigationBarItem(
                 icon: Icon(Icons.category_sharp, size: 22),
                 label: "Category",
+              ),
+              BottomNavigationBarItem(
+                icon: Icon(Icons.favorite, size: 22),
+                label: "Favorite",
               ),
               BottomNavigationBarItem(
                 icon: Icon(Icons.settings, size: 22),

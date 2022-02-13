@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 ThemeData lightTheme = ThemeData(
   primarySwatch: Colors.blue,
-  scaffoldBackgroundColor: lightColor,
+  scaffoldBackgroundColor: Colors.blue[100],
 
   // text theme in all app
   textTheme: TextTheme(
